@@ -1,0 +1,15 @@
+D:\New folder\Modul5_1302210071\Modul5_1302210071\bin\Debug\net6.0\Modul5_1302210071.exe
+D:\New folder\Modul5_1302210071\Modul5_1302210071\bin\Debug\net6.0\Modul5_1302210071.deps.json
+D:\New folder\Modul5_1302210071\Modul5_1302210071\bin\Debug\net6.0\Modul5_1302210071.runtimeconfig.json
+D:\New folder\Modul5_1302210071\Modul5_1302210071\bin\Debug\net6.0\Modul5_1302210071.dll
+D:\New folder\Modul5_1302210071\Modul5_1302210071\bin\Debug\net6.0\Modul5_1302210071.pdb
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.csproj.AssemblyReference.cache
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.AssemblyInfoInputs.cache
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.AssemblyInfo.cs
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.csproj.CoreCompileInputs.cache
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.dll
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\refint\Modul5_1302210071.dll
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.pdb
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\Modul5_1302210071.genruntimeconfig.cache
+D:\New folder\Modul5_1302210071\Modul5_1302210071\obj\Debug\net6.0\ref\Modul5_1302210071.dll
