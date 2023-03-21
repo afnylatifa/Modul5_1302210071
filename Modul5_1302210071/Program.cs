@@ -1,4 +1,4 @@
-﻿public class SimpleDataBase<T>
+public class SimpleDataBase<T>
 {
     private List<T> storedData;
     private List<DateTime> inputDates;
@@ -22,6 +22,19 @@
         {
             Console.WriteLine("Data " + j++ + " berisi " + this.storedData[i] + " , yang disimpan pada waktu UTC: " + inputDates[i]);
         }
+
+using System.Collections.Specialized;
+
+class penjumlahan
+{
+    public void JumlahTigaAngka<T>(T satu, T dua, T tiga)
+    {
+        dynamic wan, tu, tri;
+        wan = satu;
+        tu = dua;
+        tri = tiga;
+        dynamic jumlah = wan + tu + tri;
+        Console.WriteLine(jumlah.ToString());
     }
 }
 
@@ -29,6 +42,8 @@ class program
 {
     static void Main(string[] args)
     {
+        penjumlahan jumlah = new penjumlahan();
+        jumlah.JumlahTigaAngka<float>(13, 02, 21);
         SimpleDataBase<int> data = new SimpleDataBase<int>();
         data.addNewData(13);
         data.addNewData(02);
